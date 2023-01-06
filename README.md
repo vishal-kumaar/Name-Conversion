@@ -1,4 +1,4 @@
-# ⭐ Project - Accordion⭐
+# ⭐ Project - Name Conversion⭐
 🔗 [Project Link](https://name-convertor.netlify.app/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
