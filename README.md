@@ -1,5 +1,5 @@
 # ⭐ Project - Name Conversion⭐
-🔗 [Project Link](https://name-convertor.netlify.app/ "Click me") <br>
+🔗 [Project Link](https://vishal-kumaar.github.io/Name-Conversion/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
